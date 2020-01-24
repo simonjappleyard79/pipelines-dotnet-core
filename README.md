@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/SimonAppleyard/My%20Test%20Project/_apis/build/status/simonjappleyard79.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/SimonAppleyard/My%20Test%20Project/_build/latest?definitionId=8&branchName=master)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
